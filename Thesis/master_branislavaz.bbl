@@ -1,0 +1,32 @@
+\begin{thebibliography}{1}
+
+\bibitem{par_various}
+Ankita Bhalla.
+\newblock Various ways of parallelization of sequential programs.
+\newblock {\em International Journal of Engineering Research and Technology},
+  3, 1 2014.
+
+\bibitem{art_conc}
+Clay Breshears.
+\newblock {\em The Art of Concurrency: A Thread Monkey's Guide to Writing
+  Parallel Applications}.
+\newblock O'Reilly Media, Inc., 2009.
+
+\bibitem{par_computing}
+Cristóbal~A. Navarro, Nancy Hitschfeld-Kahler, and Luis Mateu.
+\newblock A survey on parallel computing and its applications in data-parallel
+  problems using gpu architectures.
+\newblock {\em Communications in Computational Physics}, 15:285--329, 2 2014.
+
+\bibitem{lang_prag}
+Michael~L. Scott.
+\newblock {\em Programming Language Pragmatics, Third Edition}.
+\newblock Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 3rd edition,
+  2009.
+
+\bibitem{par_history}
+Gregory~V. Wilson.
+\newblock The history of the development of parallel computing
+  (https://webdocs.cs.ualberta.ca/~paullu/c681/parallel.timeline.html).
+
+\end{thebibliography}

@@ -18,6 +18,11 @@ Cristóbal~A. Navarro, Nancy Hitschfeld-Kahler, and Luis Mateu.
   problems using gpu architectures.
 \newblock {\em Communications in Computational Physics}, 15:285--329, 2 2014.
 
+\bibitem{performance}
+Sartaj Sahni and Venkat Thanvantri.
+\newblock Parallel computing: Performance metrics and models.
+\newblock 1995.
+
 \bibitem{lang_prag}
 Michael~L. Scott.
 \newblock {\em Programming Language Pragmatics, Third Edition}.

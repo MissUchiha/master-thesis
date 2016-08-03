@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2015/dev/Debian) (preloaded format=pdflatex 2016.7.30)  3 AUG 2016 14:15
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2015/dev/Debian) (preloaded format=pdflatex 2016.7.30)  3 AUG 2016 18:49
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1050,6 +1050,7 @@ Package: amsthm 2009/07/02 v2.20.1
 \thm@headsep=\skip193
 \dth@everypar=\toks32
 )
+Package hyperref Info: Option `colorlinks' set `true' on input line 44.
 \c@definic=\count163
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
@@ -1059,24 +1060,24 @@ Package csquotes Info: Redefining alias 'default' -> 'serbianc'.
 (./master_branislavaz.aux)
 \openout1 = `master_branislavaz.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 72.
-LaTeX Font Info:    ... okay on input line 72.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 72.
-LaTeX Font Info:    ... okay on input line 72.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 72.
-LaTeX Font Info:    ... okay on input line 72.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 72.
-LaTeX Font Info:    ... okay on input line 72.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 72.
-LaTeX Font Info:    ... okay on input line 72.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 72.
-LaTeX Font Info:    ... okay on input line 72.
-LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 72.
-LaTeX Font Info:    ... okay on input line 72.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 72.
-LaTeX Font Info:    ... okay on input line 72.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 72.
-LaTeX Font Info:    ... okay on input line 72.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
 
 (/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -1107,8 +1108,8 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
 \AtBeginShipoutBox=\box32
-Package csquotes Info: Redefining character " on input line 72.
-Package hyperref Info: Link coloring OFF on input line 72.
+Package csquotes Info: Redefining character " on input line 75.
+Package hyperref Info: Link coloring ON on input line 75.
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
@@ -1120,32 +1121,32 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
 Redoing nameref's sectioning
 Redoing nameref's label
-LaTeX Info: Redefining \nameref on input line 72.
-LaTeX Info: Redefining \ref on input line 72.
-LaTeX Info: Redefining \pageref on input line 72.
-LaTeX Info: Redefining \nameref on input line 72.
+LaTeX Info: Redefining \nameref on input line 75.
+LaTeX Info: Redefining \ref on input line 75.
+LaTeX Info: Redefining \pageref on input line 75.
+LaTeX Info: Redefining \nameref on input line 75.
 (./master_branislavaz.out) (./master_branislavaz.out)
 \@outlinefile=\write4
 \openout4 = `master_branislavaz.out'.
 
-LaTeX Font Info:    Try loading font information for T2A+fos on input line 78.
-LaTeX Font Info:    No file T2Afos.fd. on input line 78.
+LaTeX Font Info:    Try loading font information for T2A+fos on input line 81.
+LaTeX Font Info:    No file T2Afos.fd. on input line 81.
 
 
 LaTeX Font Warning: Font shape `T2A/fos/m/n' undefined
-(Font)              using `T2A/cmr/m/n' instead on input line 78.
+(Font)              using `T2A/cmr/m/n' instead on input line 81.
 
 
 LaTeX Font Warning: Font shape `T2A/fos/m/n' in size <16> not available
-(Font)              size <17.28> substituted on input line 78.
+(Font)              size <17.28> substituted on input line 81.
 
 
 LaTeX Font Warning: Font shape `T2A/fos/m/n' in size <22> not available
-(Font)              size <20.74> substituted on input line 78.
+(Font)              size <20.74> substituted on input line 81.
 
 
 LaTeX Font Warning: Font shape `T2A/fos/bx/n' undefined
-(Font)              using `T2A/fos/m/n' instead on input line 78.
+(Font)              using `T2A/fos/m/n' instead on input line 81.
 
 [1
 
@@ -1158,7 +1159,7 @@ LaTeX Font Warning: Font shape `T2A/fos/bx/n' undefined
 
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 84--84
+Underfull \hbox (badness 10000) in paragraph at lines 87--87
 
  []
 
@@ -1175,65 +1176,63 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 ) [1
 
 
-] [2] [3
+] [2
 
-] [4
+] [3
 
-] [5] [6
+] [4] [5
 
-] [7]
-<amdal.png, id=190, 384.43625pt x 305.14pt>
+] [6]
+<amdal.png, id=186, 384.43625pt x 305.14pt>
 File: amdal.png Graphic file (type png)
  <use amdal.png>
-Package pdftex.def Info: amdal.png used on input line 140.
+Package pdftex.def Info: amdal.png used on input line 144.
 (pdftex.def)             Requested size: 340.8013pt x 270.52145pt.
- [8 <./amdal.png>]
-<data_parallel.png, id=202, 606.76688pt x 252.945pt>
+ [7 <./amdal.png>]
+<data_parallel.png, id=200, 606.76688pt x 252.945pt>
 File: data_parallel.png Graphic file (type png)
  <use data_parallel.png>
-Package pdftex.def Info: data_parallel.png used on input line 164.
+Package pdftex.def Info: data_parallel.png used on input line 168.
 (pdftex.def)             Requested size: 408.96286pt x 170.48735pt.
 
-<task_parallel.png, id=203, 610.53094pt x 280.79906pt>
+<task_parallel.png, id=201, 610.53094pt x 280.79906pt>
 File: task_parallel.png Graphic file (type png)
  <use task_parallel.png>
-Package pdftex.def Info: task_parallel.png used on input line 171.
+Package pdftex.def Info: task_parallel.png used on input line 175.
 (pdftex.def)             Requested size: 408.96286pt x 188.10011pt.
 
-[9 <./data_parallel.png>] [10 <./task_parallel.png>]
-LaTeX Font Info:    Try loading font information for T2A+cmtt on input line 187
+[8 <./data_parallel.png>] [9 <./task_parallel.png>]
+LaTeX Font Info:    Try loading font information for T2A+cmtt on input line 193
 .
 
 (/usr/share/texlive/texmf-dist/tex/latex/cyrillic/t2acmtt.fd
 File: t2acmtt.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
-) [11] [12]
-[13
-
-] [14
+) [10] [11]
+[12
 
 ]
-Overfull \hbox (48.88828pt too wide) in paragraph at lines 206--216
+Overfull \hbox (48.88828pt too wide) in paragraph at lines 209--219
 \T2A/cmr/m/n/12 jе-дин-ствен по-ка-зи-вач на обjе-кат ато-мич-ног типа (\T2A/cm
 tt/m/n/12 std::unique_ptr<std::atomic_uint>\T2A/cmr/m/n/12 ).
  []
 
-[15]
-Overfull \hbox (6.71082pt too wide) in paragraph at lines 219--224
+[13]
+Overfull \hbox (6.71082pt too wide) in paragraph at lines 222--227
 []\T2A/cmr/m/n/12 За сваку фор-мулу, услов исправ-но-сти, уну-тар функ-циjе \T2
 A/cmtt/m/n/12 CalculateConditions
  []
 
-[16] <sekvencijalni_dijagram.png, id=248, 782.925pt x 1472.50125pt>
+[14] <sekvencijalni_dijagram.png, id=246, 782.925pt x 1472.50125pt>
 File: sekvencijalni_dijagram.png Graphic file (type png)
 
 <use sekvencijalni_dijagram.png>
-Package pdftex.def Info: sekvencijalni_dijagram.png used on input line 227.
+Package pdftex.def Info: sekvencijalni_dijagram.png used on input line 230.
 (pdftex.def)             Requested size: 340.8013pt x 640.98225pt.
 
 
-LaTeX Warning: Float too large for page by 36.81502pt on input line 230.
+LaTeX Warning: Float too large for page by 36.81502pt on input line 233.
 
-[17] [18 <./sekvencijalni_dijagram.png>] (./master_branislavaz.bbl [19
+[15] [16 <./sekvencijalni_dijagram.png>] (./master_branislavaz.bbl [17
 
 ]
 bibitemlist
@@ -1243,19 +1242,19 @@ Underfull \hbox (badness 1394) in paragraph at lines 4--8
  programs.
  []
 
-) [20
+) [18
 
 ]
 \tf@toc=\write5
 \openout5 = `master_branislavaz.toc'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 243.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 243.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 246.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 246.
  (./master_branislavaz.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 243.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 243.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 246.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 246.
 Package rerunfilecheck Info: File `master_branislavaz.out' has not changed.
-(rerunfilecheck)             Checksum: C4F76A0F2AE828C5A3AB659A090CCA4B;4418.
+(rerunfilecheck)             Checksum: 1AC51D556A0FA22FF030EA1E9E691D3C;4357.
 
 
 LaTeX Font Warning: Size substitutions with differences
@@ -1266,10 +1265,10 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 15234 strings out of 494466
- 209439 string characters out of 6172530
- 329724 words of memory out of 5000000
- 18249 multiletter control sequences out of 15000+600000
+ 15237 strings out of 494466
+ 209503 string characters out of 6172530
+ 329847 words of memory out of 5000000
+ 18253 multiletter control sequences out of 15000+600000
  16818 words of font info for 37 fonts, out of 8000000 for 9000
  452 hyphenation exceptions out of 8191
  48i,12n,41p,2385b,479s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1287,10 +1286,10 @@ are/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/te
 xlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/t
 exmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-di
 st/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on master_branislavaz.pdf (24 pages, 697102 bytes).
+Output written on master_branislavaz.pdf (22 pages, 691455 bytes).
 PDF statistics:
- 872 PDF objects out of 1000 (max. 8388607)
- 297 compressed objects within 3 object streams
- 64 named destinations out of 1000 (max. 500000)
+ 858 PDF objects out of 1000 (max. 8388607)
+ 298 compressed objects within 3 object streams
+ 63 named destinations out of 1000 (max. 500000)
  205 words of extra memory for PDF output out of 10000 (max. 10000000)
 

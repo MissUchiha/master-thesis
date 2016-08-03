@@ -7,45 +7,46 @@ Warning--I'm ignoring par_computing's extra "month" field
 --line 8 of file master_branislavaz.bib
 Warning--entry type for "par_history" isn't style-file defined
 --line 16 of file master_branislavaz.bib
-You've used 5 entries,
+Warning--empty journal in performance
+You've used 6 entries,
             2118 wiz_defined-function locations,
-            521 strings with 4782 characters,
-and the built_in function-call counts, 1232 in all, are:
-= -- 115
-> -- 46
+            525 strings with 4881 characters,
+and the built_in function-call counts, 1471 in all, are:
+= -- 137
+> -- 59
 < -- 0
-+ -- 22
-- -- 14
-* -- 67
-:= -- 219
-add.period$ -- 14
-call.type$ -- 5
-change.case$ -- 21
++ -- 27
+- -- 18
+* -- 79
+:= -- 263
+add.period$ -- 17
+call.type$ -- 6
+change.case$ -- 26
 chr.to.int$ -- 0
-cite$ -- 5
-duplicate$ -- 52
-empty$ -- 110
-format.name$ -- 14
-if$ -- 252
+cite$ -- 7
+duplicate$ -- 62
+empty$ -- 127
+format.name$ -- 18
+if$ -- 299
 int.to.chr$ -- 0
-int.to.str$ -- 5
-missing$ -- 6
-newline$ -- 27
-num.names$ -- 10
-pop$ -- 28
+int.to.str$ -- 6
+missing$ -- 7
+newline$ -- 32
+num.names$ -- 12
+pop$ -- 35
 preamble$ -- 1
-purify$ -- 17
+purify$ -- 21
 quote$ -- 0
-skip$ -- 37
+skip$ -- 45
 stack$ -- 0
-substring$ -- 53
+substring$ -- 58
 swap$ -- 5
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 16
-warning$ -- 0
-while$ -- 12
-width$ -- 6
-write$ -- 53
-(There were 2 warnings)
+type$ -- 20
+warning$ -- 1
+while$ -- 14
+width$ -- 7
+write$ -- 62
+(There were 3 warnings)

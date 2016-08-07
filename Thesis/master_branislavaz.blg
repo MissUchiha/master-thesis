@@ -1,4 +1,4 @@
-This is BibTeX, Version 0.99d (TeX Live 2016/Arch Linux)
+This is BibTeX, Version 0.99d (TeX Live 2015/dev/Debian)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: master_branislavaz.aux
 The style file: plain.bst
@@ -8,45 +8,45 @@ Warning--I'm ignoring par_computing's extra "month" field
 Warning--entry type for "par_history" isn't style-file defined
 --line 16 of file master_branislavaz.bib
 Warning--empty journal in performance
-You've used 6 entries,
+You've used 7 entries,
             2118 wiz_defined-function locations,
-            525 strings with 4881 characters,
-and the built_in function-call counts, 1471 in all, are:
-= -- 137
-> -- 59
+            530 strings with 4969 characters,
+and the built_in function-call counts, 1686 in all, are:
+= -- 156
+> -- 66
 < -- 0
-+ -- 27
-- -- 18
-* -- 79
-:= -- 263
-add.period$ -- 17
-call.type$ -- 6
-change.case$ -- 26
++ -- 30
+- -- 20
+* -- 87
+:= -- 301
+add.period$ -- 20
+call.type$ -- 7
+change.case$ -- 29
 chr.to.int$ -- 0
-cite$ -- 7
-duplicate$ -- 62
-empty$ -- 127
-format.name$ -- 18
-if$ -- 299
+cite$ -- 8
+duplicate$ -- 74
+empty$ -- 149
+format.name$ -- 20
+if$ -- 345
 int.to.chr$ -- 0
-int.to.str$ -- 6
-missing$ -- 7
-newline$ -- 32
-num.names$ -- 12
-pop$ -- 35
+int.to.str$ -- 7
+missing$ -- 9
+newline$ -- 37
+num.names$ -- 14
+pop$ -- 43
 preamble$ -- 1
-purify$ -- 21
+purify$ -- 24
 quote$ -- 0
-skip$ -- 45
+skip$ -- 51
 stack$ -- 0
-substring$ -- 58
-swap$ -- 5
+substring$ -- 63
+swap$ -- 6
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 20
+type$ -- 22
 warning$ -- 1
-while$ -- 14
-width$ -- 7
-write$ -- 62
+while$ -- 16
+width$ -- 8
+write$ -- 72
 (There were 3 warnings)

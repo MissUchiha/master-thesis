@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Arch Linux) (preloaded format=pdflatex 2016.8.6)  7 AUG 2016 11:51
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Arch Linux) (preloaded format=pdflatex 2016.8.6)  7 AUG 2016 12:34
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -1232,11 +1232,12 @@ Overfull \hbox (12.7768pt too wide) in paragraph at lines 192--194
  zadataka. Ovi problemi
  []
 
+[10]
 LaTeX Font Info:    Try loading font information for T2A+cmtt on input line 200
 .
-(/usr/share/texmf-dist/tex/latex/cyrillic/t2acmtt.fd
+ (/usr/share/texmf-dist/tex/latex/cyrillic/t2acmtt.fd
 File: t2acmtt.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
-) [10] [11] [12
+) [11] [12
 
 ]
 Overfull \hbox (48.88828pt too wide) in paragraph at lines 216--226
@@ -1314,7 +1315,7 @@ usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb></usr/share/texmf
 e1/public/cm-super/sfrm2074.pfb></usr/share/texmf-dist/fonts/type1/public/cm-su
 per/sfti1200.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfti1728.pf
 b></usr/share/texmf-dist/fonts/type1/public/cm-super/sftt1200.pfb>
-Output written on master_branislavaz.pdf (22 pages, 751076 bytes).
+Output written on master_branislavaz.pdf (22 pages, 752162 bytes).
 PDF statistics:
  336 PDF objects out of 1000 (max. 8388607)
  287 compressed objects within 3 object streams

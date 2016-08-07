@@ -13,7 +13,7 @@
 \contentsline {section}{\numberline {3.3}\IeC {\CYRP }\IeC {\cyrr }\IeC {\cyro }\IeC {\cyrb }\IeC {\cyrl }\IeC {\cyre }\IeC {\cyrm }\IeC {\cyri }}{9}{section.3.3}
 \contentsline {section}{\numberline {3.4}\IeC {\CYRA }\IeC {\cyrl }\IeC {\cyra }\IeC {\cyrt }\IeC {\cyri } \IeC {\cyrz }\IeC {\cyra } \IeC {\cyrp }\IeC {\cyra }\IeC {\cyrr }\IeC {\cyra }\IeC {\cyrl }\IeC {\cyre }\IeC {\cyrl }\IeC {\cyri }\IeC {\cyrz }\IeC {\cyra }\IeC {\cyrc }\IeC {\cyri }\IeC {\cyrje }\IeC {\cyru }}{10}{section.3.4}
 \contentsline {paragraph}{ PThreads (\IeC {\cyre }\IeC {\cyrn }\IeC {\cyrg }. POSIX Threading interface)}{10}{section*.3}
-\contentsline {paragraph}{OpenMP (\IeC {\cyre }\IeC {\cyrn }\IeC {\cyrg }. Open Specification for Multi-Processing)}{10}{section*.4}
+\contentsline {paragraph}{OpenMP (\IeC {\cyre }\IeC {\cyrn }\IeC {\cyrg }. Open Specification for Multi-Processing)}{11}{section*.4}
 \contentsline {paragraph}{TBB (\IeC {\cyre }\IeC {\cyrn }\IeC {\cyrg }. Thread Building Blocks)}{11}{section*.5}
 \contentsline {chapter}{\chapternumberline {4}\IeC {\CYRI }\IeC {\cyrm }\IeC {\cyrp }\IeC {\cyrl }\IeC {\cyre }\IeC {\cyrm }\IeC {\cyre }\IeC {\cyrn }\IeC {\cyrt }\IeC {\cyra }\IeC {\cyrc }\IeC {\cyri }\IeC {\cyrje }\IeC {\cyra }}{12}{chapter.4}
 \contentsline {section}{\numberline {4.1}\IeC {\CYRO }\IeC {\cyrp }\IeC {\cyri }\IeC {\cyrs } \IeC {\cyra }\IeC {\cyrr }\IeC {\cyrh }\IeC {\cyri }\IeC {\cyrt }\IeC {\cyre }\IeC {\cyrk }\IeC {\cyrt }\IeC {\cyru }\IeC {\cyrr }\IeC {\cyre }}{12}{section.4.1}

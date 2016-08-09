@@ -12,11 +12,23 @@ Clay Breshears.
   Parallel Applications}.
 \newblock O'Reilly Media, Inc., 2009.
 
+\bibitem{klee}
+Cristian Cadar, Daniel Dunbar, and Dawson Engler.
+\newblock Klee: Unassisted and automatic generation of high-coverage tests for
+  complex systems programs.
+\newblock In {\em Proceedings of the 8th USENIX Conference on Operating Systems
+  Design and Implementation}. USENIX Association.
+
 \bibitem{verif_tech}
 Vijay D'Silva, Daniel Kroening, and Georg Weissenbacher.
 \newblock A survey of automated techniques for formal software verification.
 \newblock {\em IEEE Transactions on Computer-Aided Design of Integrated
   Circuits and Systems (TCAD)}, 2008.
+
+\bibitem{pagai}
+Julien Henry, David Monniaux, and Matthieu Moy.
+\newblock Pagai: A path sensitive static analyser.
+\newblock {\em Electron. Notes Theor. Comput. Sci.}, 289, 2012.
 
 \bibitem{testing}
 Cem Kaner, Jack~L. Falk, and Hung~Quoc Nguyen.
@@ -32,6 +44,13 @@ James~C. King.
 Miroslav Marić.
 \newblock {\em Operativni sistemi}.
 \newblock Univerzitet u Beogradu - Matematički fakultet, 2015.
+
+\bibitem{llbmc}
+Florian Merz, Stephan Falke, and Carsten Sinz.
+\newblock Llbmc: Bounded model checking of c and c\&\#43;\&\#43; programs using
+  a compiler ir.
+\newblock In {\em Proceedings of the 4th International Conference on Verified
+  Software: Theories, Tools, Experiments}. Springer-Verlag.
 
 \bibitem{par_computing}
 Cristóbal~A. Navarro, Nancy Hitschfeld-Kahler, and Luis Mateu.

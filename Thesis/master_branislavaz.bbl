@@ -1,4 +1,4 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{10}
 
 \bibitem{par_various}
 Ankita Bhalla.
@@ -11,6 +11,22 @@ Clay Breshears.
 \newblock {\em The Art of Concurrency: A Thread Monkey's Guide to Writing
   Parallel Applications}.
 \newblock O'Reilly Media, Inc., 2009.
+
+\bibitem{verif_tech}
+Vijay D'Silva, Daniel Kroening, and Georg Weissenbacher.
+\newblock A survey of automated techniques for formal software verification.
+\newblock {\em IEEE Transactions on Computer-Aided Design of Integrated
+  Circuits and Systems (TCAD)}, 2008.
+
+\bibitem{testing}
+Cem Kaner, Jack~L. Falk, and Hung~Quoc Nguyen.
+\newblock {\em Testing Computer Software, Second Edition}.
+\newblock John Wiley \& Sons, Inc., New York, NY, USA, 2nd edition, 1999.
+
+\bibitem{symbolic_exec}
+James~C. King.
+\newblock Symbolic execution and program testing.
+\newblock {\em Commun. ACM}, 1976.
 
 \bibitem{opsis}
 Miroslav Marić.

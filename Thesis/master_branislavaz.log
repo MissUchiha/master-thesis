@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2015/dev/Debian) (preloaded format=pdflatex 2016.7.30)  7 AUG 2016 19:18
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2015/dev/Debian) (preloaded format=pdflatex 2016.7.30)  9 AUG 2016 10:26
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1183,19 +1183,19 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 ] [4] [5] [6
 
 ] [7]
-<amdal.png, id=190, 384.43625pt x 305.14pt>
+<amdal.png, id=197, 384.43625pt x 305.14pt>
 File: amdal.png Graphic file (type png)
  <use amdal.png>
 Package pdftex.def Info: amdal.png used on input line 156.
 (pdftex.def)             Requested size: 340.8013pt x 270.52145pt.
  [8 <./amdal.png>]
-<data_parallel.png, id=204, 606.76688pt x 252.945pt>
+<data_parallel.png, id=211, 606.76688pt x 252.945pt>
 File: data_parallel.png Graphic file (type png)
  <use data_parallel.png>
 Package pdftex.def Info: data_parallel.png used on input line 180.
 (pdftex.def)             Requested size: 408.96286pt x 170.48735pt.
 
-<task_parallel.png, id=205, 610.53094pt x 280.79906pt>
+<task_parallel.png, id=212, 610.53094pt x 280.79906pt>
 File: task_parallel.png Graphic file (type png)
  <use task_parallel.png>
 Package pdftex.def Info: task_parallel.png used on input line 187.
@@ -1222,7 +1222,7 @@ Overfull \hbox (6.71082pt too wide) in paragraph at lines 236--241
 A/cmtt/m/n/12 CalculateConditions
  []
 
-[15] <sekvencijalni_dijagram.png, id=253, 782.925pt x 1472.50125pt>
+[15] <sekvencijalni_dijagram.png, id=260, 782.925pt x 1472.50125pt>
 File: sekvencijalni_dijagram.png Graphic file (type png)
 
 <use sekvencijalni_dijagram.png>
@@ -1236,12 +1236,6 @@ LaTeX Warning: Float too large for page by 36.81502pt on input line 247.
 
 ]
 bibitemlist
-
-Underfull \hbox (badness 1394) in paragraph at lines 4--8
-[]\T2A/cmr/m/n/12 Ankita Bhalla.  Various ways of parallelization of sequential
- programs.
- []
-
 ) [19
 
 ]
@@ -1265,10 +1259,10 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 15240 strings out of 494466
- 209527 string characters out of 6172530
- 329875 words of memory out of 5000000
- 18254 multiletter control sequences out of 15000+600000
+ 15246 strings out of 494466
+ 209608 string characters out of 6172530
+ 329972 words of memory out of 5000000
+ 18257 multiletter control sequences out of 15000+600000
  16818 words of font info for 37 fonts, out of 8000000 for 9000
  452 hyphenation exceptions out of 8191
  48i,12n,41p,2385b,479s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1286,10 +1280,10 @@ are/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/te
 xlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/t
 exmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-di
 st/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on master_branislavaz.pdf (23 pages, 697471 bytes).
+Output written on master_branislavaz.pdf (23 pages, 701812 bytes).
 PDF statistics:
- 871 PDF objects out of 1000 (max. 8388607)
- 303 compressed objects within 4 object streams
- 65 named destinations out of 1000 (max. 500000)
+ 889 PDF objects out of 1000 (max. 8388607)
+ 311 compressed objects within 4 object streams
+ 68 named destinations out of 1000 (max. 500000)
  205 words of extra memory for PDF output out of 10000 (max. 10000000)
 

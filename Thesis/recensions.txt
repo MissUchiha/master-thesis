@@ -1,0 +1,545 @@
+Филип:
+-------------------------------------------------------------------------
+1.  ZAVRSENO
+
+- уз битно теориjско ограничење, халтинг
+проблем [15]. Наиме, ниjе
+могуће направити алгоритам коjи потпуно
+прецизно испитуjе исправ- ност
+произвољног програма у коначном времену
+користећи коначне ресурсе.
+
+Nije moguce ni uz beskonacne resurse (Tjuringova masina ima beskonacno
+memorije). Halting problem je samo pokazuje da se jedan aspekt
+korektnosti programa (njegovo zaustavljanje) ne moze algoritamski
+ispitati. Postoje mnogi drugi aspekti korektnosti koji su takodje
+neodlucivi. Ja bih to stavio u prvi plan. Npr. "уз битна теоријска
+ограничења, јер се многи аспекти коректности
+програма не могу
+алгоритамски испитати (нпр. неодлучивост
+Халтинг проблема [15] нам
+говори да није могуће направити алгоритам
+којим би се испитало да ли
+се произвољни дати програм зауставља).
+
+2. ZAVRSENO
+
+- бити захтевне у пољу времена
+
+Izbegavati nepotrebno komplikovane recenicne konstrukcije. Bolje "mogu
+zahtevati dosta vremena"
+
+3. ZAVRSENO
+
+- што jе и циљ динамичке верификациjе -
+
+Šta je cilj? Pronalaženje grešaka? Iscrpno testiranje? Cilj
+verifikacije bi trebalo da je pokazivanje korektnosti tj. odsustva
+grešaka, pri čemu dinamička verifikacija retko kad to može da postigne
+već se zadovoljava otkrivanjem što većeg broja grešaka (to se i kaže u
+sledećoj rečenici).
+
+4. ZAVRSENO
+
+- углавном врши коришћењем програмског кода
+
+Na osnovu analize programskog koda i specifikacije (ovo zvuci kao da
+programski kod sam generise test primere tj. kao da se prica o
+automatskom generisanju test primera)
+
+5. ZAVRSENO
+
+- Неодлучивост халтинг проблема нам говори
+
+Opet, ovo nije direktno Halting problem, vec problem koji je srodan
+Halting problemu. Ja bih prosto rekao "многа питања релевантна
+за
+верификацију су неодлучива (на пример, питање
+да ли се програм
+зауставља или да ли је нека наредба у програму
+достижна) и стога није
+могуће утврдити да ли је програм потпуно
+исправан"
+
+6. ZAVRSENO
+
+- Staro pitanje: da li je "metod" ili "metoda" (imamo kurs "numeričke
+metode", a ne "numerički metodi")
+
+7. ZAVRSENO 
+
+- Apstraktna interpretacija, Simboličko izračunavanje - opis je
+prekratak da bi se stekla ikakva predstava šta su zapravo ove tehnike.
+Čini mi se da ima prostora u radu da se ovo bar malo raspiše (najbolje
+da se dodaju neki minijaturni primeri)
+
+8. ZAVRSENO
+
+- ограничених модела - bounded model checking - da li su modeli
+ograničeni ili je provera ograničena? U svakom slučaju nešto o ovome
+treba da se kaže u sekciji o proveri modela
+
+9. ZAVRSENO
+
+- LLVM међукодом - reći nešto o ovome i dati referencu
+
+10. PITATI MILENU
+
+- Проналази грешке дељења нулом, преко- рачење
+бафера, неисправног и
+двоструког ослобађања мемориjе, прекорачења у
+аритметичким изразима и
+проверава кориснички задате услове. - ovo je nešto
+što je opšte pa ne
+bi bilo zgoreg ovo izdvojiti i pomenuti i pre konkretnih alata (npr.
+pasus na temu svojstva programa koja se najčešće verifikuju)
+
+11. ZAVRSENO
+
+- компаjлирати - компилирати или превести (zadužen
+sam za predmete
+"konstrukcija kompilatora" i "kompilacija programskih jezika", pa
+moram da branim zvanično usvojenu terminologiju :))
+
+12. ZAVRSENO
+
+- Теориjе коjе су подржане су - reference
+
+13. ZAVRSENO
+
+- За процесе Т1 и Т2 - čemu imenovanje ako se na ta imena ne referiše?
+
+14.
+
+- перформансе рачунара експоненциjално расту -
+pomenuti i Murov zakon
+
+15. ZAVRSENO
+
+- коjа полако тежи ка теориjском максимуму
+(брзина светлости) -
+opisati jasnije vezu izmedju brzine svetlosti i maksimalne frekvencije
+časovnika (ovako ostaje nejasno)
+
+16. ZAVRSENO
+
+- По Амдаловом закону - referenca
+
+17.
+
+- na slici obeležiti nekako podeoke na osama i merne jedinice
+
+18. ZAVRSENO
+
+- alati -> alatke (alat je zbirna imenica koja nema množinu tj. već je
+u množini)
+
+19.
+
+- capslock -> caps je skraćeno od capitals i znači velika slova.
+capslock je taster koji "zaključava" tastaturu u režim velikih slova.
+Dakle, funkciju bih nazvao caps (ili bolje toupper jer je češće u
+programiranju) nego capslock.
+
+20. ZAVRSENO
+
+- Ц++ -> ja sam za C++ :) U suprotnom u nastavku treba УНИЏ, ПОСИЏ
+ТХРЕАДС i slično. Inače, do sada je pisalo C/C++, a sada se odjednom
+prešlo na Ц/Ц++
+
+21. ZAVRSENO
+
+- две категориjе имплицитне и експлицитне ->
+dodati dvotačku i onda \emph
+ 
+22. ПИТАЈ
+ 
+- pthreads - neka referenca (sada vidim da je ima na kraju - možda je
+pomeriti na početak?)
+
+23.
+
+- прављење нити -> Niti su važan pojam. Uvesti ih u opštoj priči o
+paralelizaciji.
+
+24. ZAVRSENO
+
+- C, C++ и Фортран -> ovo ćirlica/latinica je izgleda korišćeno
+potpuno random :)
+
+25. ZAVRSENO
+ 
+- компаjлерских
+
+26. ZAVRSENO
+
+- C++ jезику -> језику C++
+
+27. ZAVRSENO
+
+- funkcije A, B, C, D -> latinicom (imena funkcija u C-u ne mogu biti ćirilička)
+
+28. ZAVRSENO
+
+- 4.2 - 4.3 zašto ovoliki razmak?
+
+29. ZAVRSENO
+
+- Linux оперативног система. -> operativnog sistema Linux
+
+30.
+
+- pričano je o tri biblioteke za paralelizaciju, a ovde se sada
+pominje c++ podrška za paralelizaciju <thread>, <atomic>, <future> /
+trebalo bi to pomenuti i opisati u delu o podršci za paralelizaciju.
+Ima smisla ovu opštu priču izdvojiti o priči o paralelizaciji LAV-a
+(ja uvek volim da prvi deo mastera opiše tehnologiju nezavisno od
+njene konkretne primene)
+
+31. ZAVRSENO
+
+- враћа обjекат руковалаца нити дефинисан
+имплементациjом  -> meni ovo
+nije jasno
+
+32.
+
+- <future> - voleo bih ipak da se ovo malo raspiše - meni je prilično
+nejasno nakon ovoga
+
+33. ZAVRSENO
+
+- Класа ThreadPool -> da li je ovo klasa koju je Branislava
+implementirala? Pretpostavljam da je sve iz biblioteke oznaceno sa
+std::. Ako je tako, samo to reci u tekstu.
+
+34. ZAVRSENO
+
+- Pool - ne svidja mi se baš prevod "bazen". Našao sam sada u rečniku
+i značenje:  "pool: a readily available supply". U tom svetlu, bolje
+je koristiti skladište niti nego bazen niti.
+
+35. ZAVRSENO
+
+- вектор радних нити и ред задатака -> вектор
+(std::vector) радних
+нити и ред (std::dequeue) задатака - naravno, ako je ovo tačnno
+
+36. PITAJ
+
+- врши системским позивом оперативног система
+-> ja sam veoma slab u
+ovome, pa možda pitam gluposti. Ono što mi nije jasno je to što deluje
+da standardni C++ nudi veoma jaku podršku za paralelizaciju, ona se
+intenzivno koristi, a onda se na ovom mestu odjednom skače ispod
+standarda jezika i prelazi na API operativnog sistema. Zašto je to
+potrebno? Zar nije bolje da se koriste samo standardne stvari (kako bi
+kod mogao eventualno nekada da se prebaci i na neki drugi OS)?
+
+37. PITAJ
+
+- помоћу системских позива оперативног
+система због оптимизациjе - da
+li je ova optimizacija vršena zato što je ustanovljeno da je to neko
+usko grlo ili, onako, po prinicpu "ne može da škodi" (pitam u svetlu
+prethodne diskusije, jer mi se čini da je držanje standarda uvek bolje
+nego iskakanje iz njega).
+
+38.
+
+- Slika 4.2 - dijagram toka izvršavanja - čega? (vidi se da je u
+pitanju dijagram toka izvršavanja, ali je ovde važnija informacija šta
+se izvršava)
+
+39. ZAVRSENO
+
+- претплаћуjе - subscribe - izbegao bih ovaj termin jer nema zapravo
+plaćanja? Pre bih rekao "контролна нит ослушкује
+догађаје ..."
+
+40. ZAVRSENO
+
+- WaitForEvents - tekst je izleteo u marginu, pa i preko nje. Prelomiti
+
+41. ZAVRSENO
+
+- Init - isto prelomiti
+
+42. ZAVRSENO
+
+- Prvi korpus - drugi korpus - opet puno praznog prostora na strani
+
+43. ZAVRSENO
+
+- Uvećati font u svim kodovima!!! Ovako je jako nečitko.
+
+44. 
+
+- U celoj eksperimentalnoj analizi meni je ključno poređenje
+LAV-sekvencijalno vs LAV-paralelno. CBMC može biti samo ekstra. Da li
+imamo te rezultate?
+
+45.
+
+- Grafike prilagoditi crno-beloj štampi - naslovi LAV vs ЛАВ
+
+
+-------------------------------------------------------------------------
+САША
+
+
+ - Zasto se na nekim dijagramima koristi logaritamska a na nekim drugim linearna skala vremena? To znacajno otezava poredjenje. Koliko vidim, u laksoj verziji se svejedno ne diferenciraju verzije za LAV, a grafici za CMBC su linearni, tako da takvo prikazivanje nema mnogo smisla? -- PITAJ
+
+Страна 1.
+
+	1. ЗАВРШЕНО
+
+Страна 2.
+
+	1. ЗАВРШЕНО
+	
+Страна 3.
+
+	1. ЗАВРШЕНО
+	
+Страна 6.
+	
+	1. ЗАВРШЕНО
+	2. ЗАВРШЕНО
+	3. ЗАВРШЕНО
+	4. ЗАВРШЕНО
+	
+Страна 7.
+	
+	1. - како ово преформулисати?
+	2. ЗАВРШЕНО
+	3. ЗАВРШЕНО 
+	
+Страна 8.
+	
+	1. ЗАВРШЕНО
+	2. ЗАВРШЕНО
+	3. ЗАВРШЕНО
+	4. ЗАВРШЕНО
+	5. ЗАВРШЕНО
+	6. ЗАВРШЕНО
+	7. ЗАВРШЕНО
+	8. ЗАВРШЕНО
+	
+Страна 9.
+
+	1. ЗАВРШЕНО ФИЛИП
+	2. ЗАВРШЕНО
+	3. - шта је овде проблем?
+	4. - додати описе...
+
+Страна 10.
+
+	1. ЗАВРШЕНО
+	2. ЗАВРШЕНО
+	3. ЗАВРШЕНО
+	4. ЗАВРШЕНО
+	5. ЗАВРШЕНО
+	6. ЗАВРШЕНО
+	7. ЗАВРШЕНО
+	8. ЗАВРШЕНО
+	9. ЗАВРШЕНО 
+	10. - шта је овде проблем?
+	
+Страна 11.
+
+	1. ЗАВРШЕНО 
+	2. - нисам сигурна који одговор је овде исправан?
+	3. ^
+	4. ЗАВРШЕНО 
+	5. ЗАВРШЕНО 
+	6. ЗАВРШЕНО 
+	7. ЗАВРШЕНО 
+	8. ЗАВРШЕНО 
+
+Страна 12.
+
+	1. ЗАВРШЕНО 
+	2. ЗАВРШЕНО 
+	
+Страна 13.
+
+	1. ЗАВРШЕНО 
+	2. ЗАВРШЕНО 
+	3. ЗАВРШЕНО 
+	4. ЗАВРШЕНО 
+	5. ЗАВРШЕНО 
+	6. ЗАВРШЕНО 
+	7. ЗАВРШЕНО 
+	8. ЗАВРШЕНО 
+	9. ЗАВРШЕНО 
+	10. ЗАВРШЕНО 
+	11. ЗАВРШЕНО 
+	12. ЗАВРШЕНО 
+	13. ЗАВРШЕНО 
+	14. ЗАВРШЕНО 
+	15. ЗАВРШЕНО 
+	
+Страна 14.
+
+	1. ЗАВРШЕНО 
+	2. ЗАВРШЕНО 
+
+Страна 15.
+	
+	1. ЗАВРШЕНО 
+	2. ЗАВРШЕНО 
+	3. ЗАВРШЕНО 
+	4. ЗАВРШЕНО 
+	
+Страна 16.
+
+	1. ЗАВРШЕНО 
+	2. ЗАВРШЕНО 
+	3. ЗАВРШЕНО 
+	4. ЗАВРШЕНО 
+	5. ЗАВРШЕНО 
+	6. ЗАВРШЕНО 
+	7. ЗАВРШЕНО 
+	8. ЗАВРШЕНО 
+	9. ЗАВРШЕНО 
+	10. ЗАВРШЕНО 
+	11. ЗАВРШЕНО 
+	 
+Страна 17.
+
+	1. ЗАВРШЕНО 
+	2. ЗАВРШЕНО 
+	3. ЗАВРШЕНО 
+	4. ЗАВРШЕНО 
+	5. ЗАВРШЕНО 
+	6. ЗАВРШЕНО 
+	7. ЗАВРШЕНО 
+	8. - додати разлику између нити и процеса...
+	9. ЗАВРШЕНО 
+
+Страна 18.
+
+	1. ЗАВРШЕНО 
+	2. ЗАВРШЕНО 
+	3. ЗАВРШЕНО 
+	4. - опис стд библиотеке - део за нити...
+
+Страна 19.
+
+	1. ЗАВРШЕНО 
+	2. ЗАВРШЕНО 
+	3. ЗАВРШЕНО 
+	4. ЗАВРШЕНО 
+	
+Страна 20.
+
+	1. ЗАВРШЕНО 
+	2. ЗАВРШЕНО 
+	3. ЗАВРШЕНО 
+	4. ЗАВРШЕНО 
+	5. ЗАВРШЕНО 
+	
+Страна 22.
+
+	1. ЗАВРШЕНО 
+	2. ЗАВРШЕНО 
+	3. ЗАВРШЕНО 
+	4. ЗАВРШЕНО 
+	5. ЗАВРШЕНО 
+	6. ЗАВРШЕНО 
+	7. ЗАВРШЕНО 
+	8. ЗАВРШЕНО 
+	9. ЗАВРШЕНО 
+	10. ЗАВРШЕНО 
+	
+Страна 23.
+
+	1. ЗАВРШЕНО 
+	2. ЗАВРШЕНО 
+	3. ЗАВРШЕНО 
+	4. ЗАВРШЕНО 
+	5. ЗАВРШЕНО 
+	6. - шта овде треба да стоји уопште?
+	7. ^
+ 	8. ^
+	9. ^
+	
+Страна 24.
+
+	1. ЗАВРШЕНО
+	2. ЗАВРШЕНО
+	3. ЗАВРШЕНО
+	4. ЗАВРШЕНО
+	5. ЗАВРШЕНО
+	6. - шта са овиме да радим?
+
+Страна 25.
+
+	1.
+	2. ЗАВРШЕНО
+	3. ЗАВРШЕНО
+	4. ЗАВРШЕНО
+	5. ЗАВРШЕНО
+	6. - да ли ово да променим?
+	7. ЗАВРШЕНО
+
+Страна 26.
+
+	1. ЗАВРШЕНО
+	2. ЗАВРШЕНО
+	3. ЗАВРШЕНО
+	4. ЗАВРШЕНО
+	5. ЗАВРШЕНО
+	6. ЗАВРШЕНО
+	7. ЗАВРШЕНО
+	8. ЗАВРШЕНО
+	9. ЗАВРШЕНО
+	10. ЗАВРШЕНО
+	11. ЗАВРШЕНО
+	12. ЗАВРШЕНО
+	13. ЗАВРШЕНО
+	
+Страна 27.
+
+	1. ЗАВРШЕНО
+	2. ЗАВРШЕНО
+	3. ЗАВРШЕНО
+	4. ЗАВРШЕНО
+	5. ЗАВРШЕНО
+	6. ЗАВРШЕНО
+	7. ЗАВРШЕНО
+	8. ЗАВРШЕНО
+	9. ЗАВРШЕНО
+
+Страна 29.
+
+	1. ЗАВРШЕНО
+	2. ЗАВРШЕНО
+
+Страна 30.
+
+	1. ЗАВРШЕНО
+	2. ЗАВРШЕНО
+
+Страна 31.
+
+	1. - шта је овде проблем?
+	2. ^
+	3. ЗАВРШЕНО
+	4. ЗАВРШЕНО
+
+Страна 33.
+
+	1. ЗАВРШЕНО
+	
+Страна 34.
+
+	1. ЗАВРШЕНО
+	2. ЗАВРШЕНО
+
+Страна 35.
+
+	1. ЗАВРШЕНО
+	
+-------------------------------------------------------------------------

@@ -125,7 +125,7 @@ opisati jasnije vezu izmedju brzine svetlosti i maksimalne frekvencije
 
 - По Амдаловом закону - referenca
 
-17.
+17. ZAVRSENO
 
 - na slici obeležiti nekako podeoke na osama i merne jedinice
 
@@ -134,7 +134,7 @@ opisati jasnije vezu izmedju brzine svetlosti i maksimalne frekvencije
 - alati -> alatke (alat je zbirna imenica koja nema množinu tj. već je
 u množini)
 
-19.
+19. ZAVRSENO
 
 - capslock -> caps je skraćeno od capitals i znači velika slova.
 capslock je taster koji "zaključava" tastaturu u režim velikih slova.
@@ -152,12 +152,12 @@ prešlo na Ц/Ц++
 - две категориjе имплицитне и експлицитне ->
 dodati dvotačku i onda \emph
  
-22. ПИТАЈ
+22. ZAVRSENO
  
 - pthreads - neka referenca (sada vidim da je ima na kraju - možda je
 pomeriti na početak?)
 
-23.
+23. ZAVRSENO
 
 - прављење нити -> Niti su važan pojam. Uvesti ih u opštoj priči o
 paralelizaciji.
@@ -184,10 +184,10 @@ potpuno random :)
 - 4.2 - 4.3 zašto ovoliki razmak?
 
 29. ZAVRSENO
-
+za
 - Linux оперативног система. -> operativnog sistema Linux
 
-30.
+30. ZAVRSENO
 
 - pričano je o tri biblioteke za paralelizaciju, a ovde se sada
 pominje c++ podrška za paralelizaciju <thread>, <atomic>, <future> /
@@ -202,7 +202,7 @@ njene konkretne primene)
 имплементациjом  -> meni ovo
 nije jasno
 
-32.
+32. ZAVRSENO
 
 - <future> - voleo bih ipak da se ovo malo raspiše - meni je prilično
 nejasno nakon ovoga
@@ -245,7 +245,7 @@ usko grlo ili, onako, po prinicpu "ne može da škodi" (pitam u svetlu
 prethodne diskusije, jer mi se čini da je držanje standarda uvek bolje
 nego iskakanje iz njega).
 
-38.
+38. ZAVRSENO 
 
 - Slika 4.2 - dijagram toka izvršavanja - čega? (vidi se da je u
 pitanju dijagram toka izvršavanja, ali je ovde važnija informacija šta
@@ -415,7 +415,7 @@ imamo te rezultate?
 	5. ЗАВРШЕНО 
 	6. ЗАВРШЕНО 
 	7. ЗАВРШЕНО 
-	8. - додати разлику између нити и процеса...
+	8. ЗАВРШЕНО 
 	9. ЗАВРШЕНО 
 
 Страна 18.
@@ -423,7 +423,7 @@ imamo te rezultate?
 	1. ЗАВРШЕНО 
 	2. ЗАВРШЕНО 
 	3. ЗАВРШЕНО 
-	4. - опис стд библиотеке - део за нити...
+	4. ЗАВРШЕНО 
 
 Страна 19.
 

@@ -83,7 +83,7 @@ treba da se kaže u sekciji o proveri modela
 
 - LLVM међукодом - reći nešto o ovome i dati referencu
 
-10. PITATI MILENU
+10. ZAVRSENO
 
 - Проналази грешке дељења нулом, преко- рачење
 бафера, неисправног и
@@ -109,7 +109,7 @@ moram da branim zvanično usvojenu terminologiju :))
 
 - За процесе Т1 и Т2 - čemu imenovanje ako se na ta imena ne referiše?
 
-14.
+14. ZAVRSENO
 
 - перформансе рачунара експоненциjално расту -
 pomenuti i Murov zakon
@@ -225,7 +225,7 @@ je koristiti skladište niti nego bazen niti.
 (std::vector) радних
 нити и ред (std::dequeue) задатака - naravno, ako je ovo tačnno
 
-36. PITAJ
+36. ZAVRSENO
 
 - врши системским позивом оперативног система
 -> ja sam veoma slab u
@@ -236,7 +236,7 @@ standarda jezika i prelazi na API operativnog sistema. Zašto je to
 potrebno? Zar nije bolje da se koriste samo standardne stvari (kako bi
 kod mogao eventualno nekada da se prebaci i na neki drugi OS)?
 
-37. PITAJ
+37. ZAVRSENO
 
 - помоћу системских позива оперативног
 система због оптимизациjе - da
